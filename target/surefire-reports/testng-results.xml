@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8827" started-at="2020-05-14T19:08:35Z" finished-at="2020-05-14T19:08:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8827" started-at="2020-05-14T19:08:35Z" finished-at="2020-05-14T19:08:44Z">
+      <class name="fayaz.google.searchtest.GoogleSearch">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:fayaz.google.searchtest.GoogleSearch@12028586]" name="launchBrowser" duration-ms="5939" started-at="2020-05-15T00:38:35Z" finished-at="2020-05-15T00:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fayaz.google.searchtest.GoogleSearch@12028586]" name="tearDown" duration-ms="2870" started-at="2020-05-15T00:38:41Z" finished-at="2020-05-15T00:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fayaz.google.searchtest.GoogleSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
