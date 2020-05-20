@@ -1,10 +1,12 @@
 # RunTestngTestFromExecutableJar
- >To run the test from executable jar, we need to download the project
- >Set environment variables with key as 'chrome_driver_path' and path pointing to the chromedriver available in lib directory after downloading the project
- >Launch the eclipse and import the project
- >Resolve all compiler issues
- >Select the project and export as 'Runnable JAR file', with a name say "RunSeleniumTest.jar"
- >Open the command prompt, then run the command, "Java -jar RunSeleniumTest.jar"
+Steps to use this project.
+
+1) To run the test from executable jar, we need to download the project
+2) Set environment variables with key as 'chrome_driver_path' and path pointing to the chromedriver available in lib directory after downloading the project
+3) Launch the eclipse and import the project
+4) Resolve all compiler issues
+5) Select the project and export as 'Runnable JAR file', with a name say "RunSeleniumTest.jar"
+6) Open the command prompt, then run the command, "Java -jar RunSeleniumTest.jar"
  
  Happy Testing. 
  
